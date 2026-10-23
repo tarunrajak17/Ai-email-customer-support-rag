@@ -59,16 +59,6 @@ Customer:
 The AI agent understands the request and uses the available
 knowledge/context to provide the appropriate response.
 
-## Screenshots
-
-### n8n Workflow
-
-![Workflow](screenshots/workflow.png)
-
-### Email Response
-
-![Email Response](screenshots/email-response.png)
-
 ## Setup
 
 1. Import `workflow/customer-support-rag.json` into n8n.
